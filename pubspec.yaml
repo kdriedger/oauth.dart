@@ -4,7 +4,7 @@ author: Owen Shepherd <*@owenshepherd.net>
 description: An implementation of OAuth 1.0a per RFC 5849
 homepage: https://github.com/oshepherd/oauth.dart
 environment:
-    sdk: ">=2.1.0 <3.0.0"
+    sdk: ">=2.1.0-dev <3.0.0"
 dependencies:
   pointycastle: '^1.0.0'
   crypto: '^2.0.1'
